@@ -39,7 +39,7 @@ p {
   }
 }
 a {
-  color: #67aac4;
+  color: #e34b33;
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
@@ -47,7 +47,7 @@ a {
 a:hover,
 a:focus {
   text-decoration: none;
-  color: #37768e;
+  color: #9b2715;
 }
 .light {
   font-weight: 400;
@@ -258,16 +258,16 @@ a:focus {
   border-radius: 0;
 }
 .btn-default {
-  border: 1px solid #67aac4;
-  color: #67aac4;
+  border: 1px solid #e34b33;
+  color: #e34b33;
   background-color: transparent;
 }
 .btn-default:hover,
 .btn-default:focus {
-  border: 1px solid #67aac4;
+  border: 1px solid #e34b33;
   outline: none;
   color: black;
-  background-color: #67aac4;
+  background-color: #e34b33;
 }
 ul.banner-social-buttons {
   margin-top: 0;
