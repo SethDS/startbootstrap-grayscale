@@ -125,6 +125,7 @@ a:focus {
   text-align: center;
   color: white;
   background: url('../img/s-w-37942.jpg') no-repeat bottom center fixed;
+  filter: grayscale(100%);
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -225,11 +226,11 @@ a:focus {
   padding: 50px 0;
   color: white;
   background: url('../img/eric-parks-90681.jpg') no-repeat center center fixed;
-  background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
+  filter: grayscale(100%);
 }
 #map {
   width: 100%;
