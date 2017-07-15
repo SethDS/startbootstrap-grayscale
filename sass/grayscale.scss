@@ -234,7 +234,13 @@ a {
 }
 
 .content-section {
+    width: 100%;
     padding-top: 100px;
+}
+
+#about {
+    background: url('../img/gustavo-belemmi-67044.jpg') no-repeat center fixed;
+    background-size: cover;
 }
 
 .download-section {
